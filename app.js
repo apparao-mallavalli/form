@@ -96,4 +96,5 @@ function pom() {
 
 function reset() {
     form.reset();
+    validate();
 }
